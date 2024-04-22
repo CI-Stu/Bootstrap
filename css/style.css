@@ -43,7 +43,7 @@ body {
 }
 
 .block-divider--orange {
-    background-color: #b17b19;
+    background-color: #f05f40;
 
 }
 
@@ -86,4 +86,13 @@ body {
     color: white;
     background-color: #f05f40;
     border-color: #f05f40;
+}
+
+.btn--red:hover,
+.btn--red:active,
+.btn--red:focus,
+.btn--red:active:focus {
+    background-color: #ed3d17;
+    border-color: #ed3d17;
+
 }
